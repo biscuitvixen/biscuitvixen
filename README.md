@@ -9,19 +9,42 @@
 Your professional — _typical_ — furry scientist/programmer 😅 I get up to a range of techy things both professionally and as a hobby, I love to learn and I am always trying new things.
 
 
+## 💻 My Stack  
 
-## 💻 My stack
+### ✨ Programming ✨  
+🖥️ **Editors**:  
+💖 `VSCode` (for IDE work) | 🖤 `VIM` (for quick terminal editing)  
 
-### Programming
-My go-to editors are `VSCode` for IDE work and `VIM` for quick terminal editing 💅
+🚀 **Languages**:  
+🌸 `C` | 🌸 `C++` | 🌸 `Python` | 🌸 `CUDA`  
 
-I prefer to use `C`, `C++`, `Python` and `CUDA`. I do a lot of high-performance compute work and that certainly shapes how I tackle my hobby projects.
+🔧 **Environment**:  
+🐧 `Linux` (`RHEL` | `Ubuntu`) | 🏗️ `mamba` (for environment management)  
 
-I work in `Linux`, either `RHEL` or `Ubuntu` and I manage my environments using `mamba`
+💡 I do a lot of high-performance computing work, and that certainly shapes how I tackle my hobby projects!  
 
-### PCB Design
-I use `KiCad` for schematics and PCB layout. My preferred style is a sleek, modern `SMD` PCB
+---
 
+### 🎀 PCB Design 🎀  
+💎 **Software**: `KiCad` (for schematics & PCB layout)  
+✨ **Style**: Sleek, modern `SMD` PCB designs  
+
+---
+
+💬 Feel free to reach out and chat about science, programming, or electronics! **@biscuit_fox**
+<p align="center">
+  <span>
+    <a href="https://t.me/biscuit_fox" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <a href="https://discordapp.com/users/biscuit_fox" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+  </span>
+</p>
 
 
 <!---
