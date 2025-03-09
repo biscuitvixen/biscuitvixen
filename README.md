@@ -16,7 +16,10 @@ Your professional — _typical_ — furry scientist/programmer 😅 I get up to 
 💖 `VSCode` (for IDE work) | 🖤 `VIM` (for quick terminal editing)  
 
 🚀 **Languages**:  
-🌸 `C` | 🌸 `C++` | 🌸 `Python` | 🌸 `CUDA`  
+🌸 `C`
+🌸 `C++`
+🌸 `Python`
+🌸 `CUDA`  
 
 🔧 **Environment**:  
 🐧 `Linux` (`RHEL` | `Ubuntu`) | 🏗️ `mamba` (for environment management)  
