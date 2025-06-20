@@ -1,61 +1,74 @@
-<h1 align="center"> Hey! I am Sandy 🦊</h1>
-<h3 align="center">Scientist | Programmer | Engineer</h3>
-<h3 align="center">*•.¸♡ She/Her ♡¸.•*<br>╰☆☆ Vixen ☆☆╮</h3>
-<h3 align="center"></h3>
+<h1 align="center">Hey! I am Sandra 🦊</h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=biscuit-fox&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile-views" />
+</div>
+<h3 align="center">Fluffy Scientist | Professional Developer | Amateur Electronics Engineer</h3>
+<h4 align="center">☆ She/Her ☆</h4>
 
 ---
 
-## 🌠 About me
-Your professional — _typical_ — furry scientist/programmer 😅 I get up to a range of techy things both professionally and as a hobby, I love to learn and I am always trying new things.
+### 🌟 About Me
+Hi! I'm Sandy — a fluffy maker who loves building all sorts of things!  
+Whether it's programming, soldering, making, or just vibing in VR, I'm always experimenting with something creative.  
 
-
-## 💻 My Stack  
-
-### ✨ Programming ✨  
-🖥️ **Editors**:  
-💖 `VSCode` (for IDE work) | 🖤 `VIM` (for quick terminal editing)  
-
-🚀 **Languages**:  
-🌸 `C`
-🌸 `C++`
-🌸 `Python`
-🌸 `CUDA`  
-
-🔧 **Environment**:  
-🐧 `Linux` (`RHEL` | `Ubuntu`) | 🏗️ `mamba` (for environment management)  
-
-💡 I do a lot of high-performance computing work, and that certainly shapes how I tackle my hobby projects!  
+💻 By day, I develop high-performance, GPU-accelerated software for a particle accelerator.  
+🧵 By night, I design PCBs, make fursuit bits, and write questionable code for fun!  
+🧪 I’m powered by curiosity, pixels, and a lot of caffeine.
 
 ---
 
-### 🎀 PCB Design 🎀  
-💎 **Software**: `KiCad` (for schematics & PCB layout)  
-✨ **Style**: Sleek, modern `SMD` PCB designs  
-
----
-
-💬 Feel free to reach out and chat about science, programming, or electronics! **@biscuit_fox**
-<p align="center">
-  <span>
-    <a href="https://t.me/biscuit_fox" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-  </span>
-  &nbsp;&nbsp;
-  <span>
-    <a href="https://discordapp.com/users/biscuit_fox" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-  </span>
+### 📀 Programming Languages
+<p>
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white" />
 </p>
 
+---
 
-<!---
-biscuitvixen/biscuitvixen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+### 🛠️ Tools
+<p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" />
+  <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+  <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=white" />
+</p>
 
-- 👋 Hi, I am @biscuitvixen
-- 👀 I am interested in all sorts of things! AI, science, computer science and electronics. I am an avid maker and I am always pushing myself to learn more.
-- 🌱 I’m currently learning CUDA, OpenCL and verilog, trying to build a deeper grasp on methods for lower level, optimised data analysis.
-- 😄 Pronouns: She/Her #womenintech
---->
+---
+
+### 🧷 PCB Design
+<p>
+  <img alt="KiCad" src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square&logo=KiCad&logoColor=white" />
+</p>
+<p>
+  Clean, functional <code>SMD</code> boards with ✨ vibes  
+  <br>
+  Projects include VR FBT systems & smart home IoT devices
+</p>
+
+---
+
+### 🎮 Other Interests
+
+#### 🔧 Tech & Making
+- Wearables  
+- Smarthome IoT  
+- Fursuit electronics
+
+#### 🎨 Furry
+- Furry fandom  
+- Convention-goer  
+- VRChat  
+- Digital art  
+- Fursuit making (Check out my protogen!)
+
+---
+
+### 💬 Let's Connect
+<p align="center">
+  <a href="https://t.me/biscuit_fox" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/biscuit_fox" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/biscuit-fox" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
+</p>
