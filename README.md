@@ -70,5 +70,5 @@ Whether it's programming, soldering, making, or just vibing in VR, I'm always ex
 <p align="center">
   <a href="https://t.me/biscuit_fox" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white" /></a>
   <a href="https://discordapp.com/users/biscuit_fox" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-  <a href="https://github.com/biscuit-fox" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
+  <a href="https://github.com/biscuitvixen" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
 </p>
