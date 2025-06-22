@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 Hi! I'm Sandy — a fluffy maker who loves building all sorts of things!  
-Whether it's programming, soldering, making, or just vibing in VR, I'm always experimenting with something creative.  
+Whether it's programming, soldering, making, or just vibing, I'm always experimenting and learning.  
 
 💻 By day, I develop high-performance, GPU-accelerated software for a particle accelerator.  
 🧵 By night, I design PCBs, make fursuit bits, and write questionable code for fun!  
