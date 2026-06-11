@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 575" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,Liberation Mono,monospace">
+  <rect x="1" y="1" width="878" height="573" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="26" cy="24" r="6.5" fill="#1f8fee"/>
+  <circle cx="48" cy="24" r="6.5" fill="#43c554"/>
+  <circle cx="70" cy="24" r="6.5" fill="#edbf4a"/>
+  <text x="440" y="29" text-anchor="middle" font-size="13" fill="#8b949e">sandy@bluefox.cafe:~</text>
+  <line x1="1" y1="46" x2="879" y2="46" stroke="#30363d" stroke-width="1"/>
+  <text x="36" y="78" font-size="14" xml:space="preserve"><tspan fill="#3fb950">❯</tspan><tspan fill="#c9d1d9"> fastfetch</tspan></text>
+  
+<g transform="translate(26,170) scale(1.04)">
+  <polygon points="22,-8 92,46 38,92" fill="#16181d"/>
+  <polygon points="178,-8 108,46 162,92" fill="#16181d"/>
+  <polygon points="36,8 78,46 44,72" fill="#1f8fee"/>
+  <polygon points="164,8 122,46 156,72" fill="#1f8fee"/>
+  <polygon points="100.1,28.0 120.3,50.9 149.8,42.6 154.5,72.9 183.7,81.8 171.3,109.8 191.1,133.2 165.5,150.0 169.5,180.3 138.9,180.6 125.8,208.3 99.9,192.0 74.0,208.3 61.0,180.5 30.4,180.2 34.5,149.9 8.9,133.0 28.7,109.7 16.3,81.7 45.6,72.8 50.3,42.6 79.8,50.9" fill="#f3f5f7"/>
+  <ellipse cx="100" cy="112" rx="64" ry="58" fill="#16181d"/>
+  <path d="M 44 122 Q 100 96 156 122 Q 152 168 100 172 Q 48 168 44 122 Z" fill="#1f8fee"/>
+  <circle cx="64" cy="62" r="20" fill="#f3f5f7"/>
+  <circle cx="92" cy="52" r="22" fill="#f3f5f7"/>
+  <circle cx="122" cy="56" r="20" fill="#f3f5f7"/>
+  <circle cx="144" cy="70" r="15" fill="#f3f5f7"/>
+  <circle cx="52" cy="80" r="13" fill="#f3f5f7"/>
+  <ellipse cx="73" cy="106" rx="11" ry="13" fill="#43c554"/>
+  <ellipse cx="127" cy="106" rx="11" ry="13" fill="#43c554"/>
+  <circle cx="76" cy="101" r="3.4" fill="#eafff0"/>
+  <circle cx="130" cy="101" r="3.4" fill="#eafff0"/>
+  <path d="M 91 132 Q 100 126 109 132 Q 105 142 100 143 Q 95 142 91 132 Z" fill="#0a0b0d"/>
+  <path d="M 100 143 Q 100 152 90 154" stroke="#0a0b0d" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 100 143 Q 100 152 110 154" stroke="#0a0b0d" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 58 178 Q 100 196 142 178 L 142 190 Q 100 208 58 190 Z" fill="#0a0b0d"/>
+  <circle cx="100" cy="200" r="9" fill="#edbf4a"/>
+  <line x1="93" y1="200" x2="107" y2="200" stroke="#9a7820" stroke-width="2"/>
+  <circle cx="100" cy="204" r="1.8" fill="#9a7820"/>
+</g>
+  <text x="268" y="96" xml:space="preserve" font-size="14"><tspan fill="#c9d1d9"> </tspan><tspan fill="#e3b341" font-weight="600">sandy</tspan><tspan fill="#c9d1d9"> @ </tspan><tspan fill="#e3b341" font-weight="600">bluefox.cafe</tspan></text>
+<text x="268" y="115" xml:space="preserve" font-size="14"><tspan fill="#8b949e"> ────────────────────────</tspan></text>
+<text x="268" y="153" xml:space="preserve" font-size="14"><tspan fill="#8b949e">┌───────────────────────Hardware───────────────────────┐</tspan></text>
+<text x="268" y="172" xml:space="preserve" font-size="14"><tspan fill="#3fb950"> Chassis      </tspan><tspan fill="#c9d1d9"> fox - blue/black and fluffy</tspan></text>
+<text x="268" y="191" xml:space="preserve" font-size="14"><tspan fill="#3fb950">│ ├ Cooling   </tspan><tspan fill="#c9d1d9"> floof (passive; thermally inadvisable)</tspan></text>
+<text x="268" y="210" xml:space="preserve" font-size="14"><tspan fill="#3fb950">│ ├ Sensors   </tspan><tspan fill="#c9d1d9"> green eyes · large ears</tspan></text>
+<text x="268" y="229" xml:space="preserve" font-size="14"><tspan fill="#3fb950">└ └ Interrupts</tspan><tspan fill="#c9d1d9"> bell collar (non-maskable)</tspan></text>
+<text x="268" y="248" xml:space="preserve" font-size="14"><tspan fill="#8b949e">└──────────────────────────────────────────────────────┘</tspan></text>
+<text x="268" y="286" xml:space="preserve" font-size="14"><tspan fill="#8b949e">┌───────────────────────Software───────────────────────┐</tspan></text>
+<text x="268" y="305" xml:space="preserve" font-size="14"><tspan fill="#d29922"> OS           </tspan><tspan fill="#c9d1d9"> Arch Linux (yes, btw)</tspan></text>
+<text x="268" y="324" xml:space="preserve" font-size="14"><tspan fill="#d29922">│ ├ Shell     </tspan><tspan fill="#c9d1d9"> bash, catastrophically over-configured</tspan></text>
+<text x="268" y="343" xml:space="preserve" font-size="14"><tspan fill="#d29922">│ ├ Editor    </tspan><tspan fill="#c9d1d9"> whichever one I left open</tspan></text>
+<text x="268" y="362" xml:space="preserve" font-size="14"><tspan fill="#d29922">└ └ Languages </tspan><tspan fill="#c9d1d9"> C++ · CUDA · Python · solder</tspan></text>
+<text x="268" y="381" xml:space="preserve" font-size="14"><tspan fill="#8b949e">└──────────────────────────────────────────────────────┘</tspan></text>
+<text x="268" y="419" xml:space="preserve" font-size="14"><tspan fill="#8b949e">┌────────────────────────System────────────────────────┐</tspan></text>
+<text x="268" y="438" xml:space="preserve" font-size="14"><tspan fill="#bc8cff">  Pronouns    </tspan><tspan fill="#c9d1d9"> she/her</tspan></text>
+<text x="268" y="457" xml:space="preserve" font-size="14"><tspan fill="#bc8cff">  Day job     </tspan><tspan fill="#c9d1d9"> making big science go very fast on GPUs</tspan></text>
+<text x="268" y="476" xml:space="preserve" font-size="14"><tspan fill="#bc8cff">  Night job   </tspan><tspan fill="#c9d1d9"> making very small PCBs go beep</tspan></text>
+<text x="268" y="495" xml:space="preserve" font-size="14"><tspan fill="#bc8cff">  Load        </tspan><tspan fill="#c9d1d9"> 3.14 2.72 1.62 (4 paws)</tspan></text>
+<text x="268" y="514" xml:space="preserve" font-size="14"><tspan fill="#bc8cff">  Uptime      </tspan><tspan fill="#c9d1d9"> do not ask</tspan></text>
+<text x="268" y="533" xml:space="preserve" font-size="14"><tspan fill="#8b949e">└──────────────────────────────────────────────────────┘</tspan></text>
+  <circle cx="276" cy="547" r="6.5" fill="#ff7b72"/><circle cx="298" cy="547" r="6.5" fill="#d29922"/><circle cx="320" cy="547" r="6.5" fill="#3fb950"/><circle cx="342" cy="547" r="6.5" fill="#39c5cf"/><circle cx="364" cy="547" r="6.5" fill="#58a6ff"/><circle cx="386" cy="547" r="6.5" fill="#bc8cff"/><circle cx="408" cy="547" r="6.5" fill="#e6edf3"/><circle cx="430" cy="547" r="6.5" fill="#6e7681"/>
+</svg>
