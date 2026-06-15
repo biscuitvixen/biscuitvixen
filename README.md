@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- banner: lofi fox soldering, when the commission lands -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
   <img src="assets/banner-light.png" alt="Sandy the fox, soldering iron in paw" width="620">
-</picture>
+</picture> -->
 
 <img src="assets/terminal.svg" alt="fastfetch-style profile card: sandy@bluefox.cafe - fox, blue/black and fluffy, Arch Linux, bash catastrophically over-configured, C++ CUDA Python solder, load 3.14 2.72 1.62 on 4 paws, uptime: do not ask" width="860">
 
