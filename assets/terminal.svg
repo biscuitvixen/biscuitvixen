@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 575" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,Liberation Mono,monospace">
-  <rect x="1" y="1" width="878" height="573" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 600" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,Liberation Mono,monospace">
+  <rect x="1" y="1" width="878" height="598" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
   <circle cx="26" cy="24" r="6.5" fill="#1f8fee"/>
   <circle cx="48" cy="24" r="6.5" fill="#43c554"/>
   <circle cx="70" cy="24" r="6.5" fill="#edbf4a"/>
@@ -66,4 +66,14 @@
 <text x="268" y="514" xml:space="preserve" font-size="14"><tspan fill="#bc8cff">  Uptime      </tspan><tspan fill="#c9d1d9"> do not ask</tspan></text>
 <text x="268" y="533" xml:space="preserve" font-size="14"><tspan fill="#8b949e">└──────────────────────────────────────────────────────┘</tspan></text>
   <circle cx="276" cy="547" r="6.5" fill="#ff7b72"/><circle cx="298" cy="547" r="6.5" fill="#d29922"/><circle cx="320" cy="547" r="6.5" fill="#3fb950"/><circle cx="342" cy="547" r="6.5" fill="#39c5cf"/><circle cx="364" cy="547" r="6.5" fill="#58a6ff"/><circle cx="386" cy="547" r="6.5" fill="#bc8cff"/><circle cx="408" cy="547" r="6.5" fill="#e6edf3"/><circle cx="430" cy="547" r="6.5" fill="#6e7681"/>
+  <text x="36" y="582" font-size="14" xml:space="preserve"><tspan fill="#8b949e">[</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">]</tspan></text>
+  <g font-size="14">
+    <text x="60" y="582" fill="#58a6ff" opacity="0">λ<animate attributeName="opacity" values="1;0;0;0;0;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="9s" repeatCount="indefinite"/></text>
+    <text x="60" y="582" fill="#bc8cff" opacity="0">θ<animate attributeName="opacity" values="0;1;0;0;0;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="9s" repeatCount="indefinite"/></text>
+    <text x="60" y="582" fill="#3fb950" opacity="0">Å<animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="9s" repeatCount="indefinite"/></text>
+    <text x="60" y="582" fill="#d29922" opacity="0">α<animate attributeName="opacity" values="0;0;0;1;0;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="9s" repeatCount="indefinite"/></text>
+    <text x="60" y="582" fill="#39c5cf" opacity="0">β<animate attributeName="opacity" values="0;0;0;0;1;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="9s" repeatCount="indefinite"/></text>
+    <text x="60" y="582" fill="#ff7b72" opacity="0">γ<animate attributeName="opacity" values="0;0;0;0;0;1" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="9s" repeatCount="indefinite"/></text>
+  </g>
+  <rect x="77" y="570" width="8" height="15" fill="#c9d1d9"><animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1.06s" repeatCount="indefinite"/></rect>
 </svg>
