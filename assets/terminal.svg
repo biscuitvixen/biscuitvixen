@@ -30,6 +30,11 @@
   <circle cx="124" cy="126" r="1.8" fill="#1f8fee"/>
   <circle cx="134" cy="124" r="2.4" fill="#1f8fee"/>
   <circle cx="145" cy="119" r="3.0" fill="#1f8fee"/>
+  <ellipse cx="97" cy="115" rx="1.4" ry="0.55" fill="#1f8fee"/>
+  <ellipse cx="103" cy="115" rx="1.4" ry="0.55" fill="#1f8fee"/>
+  <ellipse cx="100" cy="118" rx="1.4" ry="0.55" fill="#1f8fee"/>
+  <ellipse cx="97" cy="121" rx="1.4" ry="0.55" fill="#1f8fee"/>
+  <ellipse cx="103" cy="121" rx="1.4" ry="0.55" fill="#1f8fee"/>
   <path d="M 91 132 Q 100 126 109 132 Q 105 142 100 143 Q 95 142 91 132 Z" fill="#0a0b0d"/>
   <path d="M 100 143 Q 100 152 90 154" stroke="#0a0b0d" stroke-width="3" fill="none" stroke-linecap="round"/>
   <path d="M 100 143 Q 100 152 110 154" stroke="#0a0b0d" stroke-width="3" fill="none" stroke-linecap="round"/>
