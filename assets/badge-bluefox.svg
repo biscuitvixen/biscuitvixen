@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="30" viewBox="0 0 140 30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,Liberation Mono,monospace">
+  <rect x="0.5" y="0.5" width="139" height="29" rx="6" fill="#21262d" stroke="#30363d"/>
+  <g transform="translate(9,7) scale(0.66667)">
+    <polygon points="3,1.5 9.5,8.5 12,7 14.5,8.5 21,1.5 22.5,11 16,15 12,21 8,15 1.5,11" fill="#1f8fee"/>
+    <ellipse cx="8" cy="11" rx="1.9" ry="0.95" transform="rotate(22 8 11)" fill="#21262d"/>
+    <ellipse cx="16" cy="11" rx="1.9" ry="0.95" transform="rotate(-22 16 11)" fill="#21262d"/>
+  </g>
+  <text x="33" y="20" font-size="13" fill="#c9d1d9">bluefox.cafe</text>
+</svg>

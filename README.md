@@ -29,4 +29,4 @@ It's mostly wearables, home automation, and electronics that end up sewn into fu
 
 ### Find me
 
-[Telegram](https://t.me/biscuit_fox) · [Discord](https://discordapp.com/users/biscuit_fox) · [The Blue Fox Herself](https://bluefox.cafe/)
+[![Telegram](assets/badge-telegram.svg)](https://t.me/biscuit_fox) [![Discord](assets/badge-discord.svg)](https://discordapp.com/users/biscuit_fox) [![bluefox.cafe](assets/badge-bluefox.svg)](https://bluefox.cafe/)
