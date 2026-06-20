@@ -1,9 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="140" height="30" viewBox="0 0 140 30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,Liberation Mono,monospace">
   <rect x="0.5" y="0.5" width="139" height="29" rx="6" fill="#21262d" stroke="#30363d"/>
   <g transform="translate(9,7) scale(0.66667)">
-    <polygon points="3,1.5 9.5,8.5 12,7 14.5,8.5 21,1.5 22.5,11 16,15 12,21 8,15 1.5,11" fill="#1f8fee"/>
-    <ellipse cx="8" cy="11" rx="1.9" ry="0.95" transform="rotate(22 8 11)" fill="#21262d"/>
-    <ellipse cx="16" cy="11" rx="1.9" ry="0.95" transform="rotate(-22 16 11)" fill="#21262d"/>
+    <!-- steam -->
+    <path d="M8 1 C8 2.4 6.6 2.9 6.6 4.3 C6.6 5.7 8 6.2 8 7.6" fill="none" stroke="#f6f8fa" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M13 1 C13 2.4 11.6 2.9 11.6 4.3 C11.6 5.7 13 6.2 13 7.6" fill="none" stroke="#f6f8fa" stroke-width="1.4" stroke-linecap="round"/>
+    <!-- saucer -->
+    <ellipse cx="10.5" cy="22" rx="10" ry="1.8" fill="#e8732b"/>
+    <!-- handle -->
+    <path d="M18 11.5 C22 11 22.5 16.5 17.5 16.5" fill="none" stroke="#e8732b" stroke-width="2"/>
+    <!-- cup body -->
+    <path d="M2.5 9.5 H18.5 L17 18.5 C16.8 19.8 15.7 20.5 14.5 20.5 H6.5 C5.3 20.5 4.2 19.8 4 18.5 Z" fill="#e8732b"/>
+    <!-- coffee surface / rim -->
+    <ellipse cx="10.5" cy="9.5" rx="8" ry="1.6" fill="#f6f8fa"/>
   </g>
   <text x="33" y="20" font-size="13" fill="#c9d1d9">bluefox.cafe</text>
 </svg>
