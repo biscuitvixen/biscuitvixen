@@ -22,11 +22,11 @@ Most days are CUDA kernels and profiler flame graphs, and the eternal hunt for t
 
 | | |
 |---|---|
-| 🦴 [**smol-biscuits**](https://github.com/biscuitvixen/smol-biscuits) | Tiny SlimeVR-compatible full-body trackers - custom PCB, firmware, and printed cases for the XIAO nRF52840 |
-| 💬 [**scarlett_ai**](https://github.com/biscuitvixen/scarlett_ai) | Personality-driven Discord bot - optional local-LLM chat, timezone wrangling, and music, all in a container |
-| 🤖 [**protOS**](https://github.com/biscuitvixen/protOS) | Dynamic environment for a protogen visor - the animated LED face that rides on the suit |
-| ☕ [**fox_cafe**](https://github.com/biscuitvixen/fox_cafe) | Self-hosted Foundry VTT stack, Discord-OAuth-gated behind Caddy |
-| 🖥️ [**homelab**](https://github.com/biscuitvixen/homelab) | Docker Compose for the little home server that quietly hosts the rest |
+| <abbr title="mu - micro, the tiny trackers">μ</abbr> [**smol-biscuits**](https://github.com/biscuitvixen/smol-biscuits) | Tiny SlimeVR-compatible full-body trackers - custom PCB, firmware, and printed cases for the XIAO nRF52840 |
+| <abbr title="psi - psyche, the AI's personality">Ψ</abbr> [**scarlett_ai**](https://github.com/biscuitvixen/scarlett_ai) | Personality-driven Discord bot - optional local-LLM chat, timezone wrangling, and music, all in a container |
+| <abbr title="phi - the glowing circular visor face">Φ</abbr> [**protOS**](https://github.com/biscuitvixen/protOS) | Dynamic environment for a protogen visor - the animated LED face that rides on the suit |
+| <abbr title="theta - cup-shaped, the cafe">Θ</abbr> [**fox_cafe**](https://github.com/biscuitvixen/fox_cafe) | Self-hosted Foundry VTT stack, Discord-OAuth-gated behind Caddy |
+| <abbr title="omega - the base everything else runs on">Ω</abbr> [**homelab**](https://github.com/biscuitvixen/homelab) | Docker Compose for the little home server that quietly hosts the rest |
 
 It's mostly wearables, home automation, and electronics that end up sewn into fursuits - plus whatever the home server has decided to run this week.
 
