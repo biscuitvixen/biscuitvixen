@@ -23,6 +23,7 @@ Most days are CUDA kernels and profiler flame graphs, and the eternal hunt for t
 | | |
 |---|---|
 | 🦴 [**smol-biscuits**](https://github.com/biscuitvixen/smol-biscuits) | Tiny SlimeVR-compatible full-body trackers - custom PCB, firmware, and printed cases for the XIAO nRF52840 |
+| 💬 [**scarlett_ai**](https://github.com/biscuitvixen/scarlett_ai) | Personality-driven Discord bot - optional local-LLM chat, timezone wrangling, and music, all in a container |
 | 🤖 [**protOS**](https://github.com/biscuitvixen/protOS) | Dynamic environment for a protogen visor - the animated LED face that rides on the suit |
 | ☕ [**fox_cafe**](https://github.com/biscuitvixen/fox_cafe) | Self-hosted Foundry VTT stack, Discord-OAuth-gated behind Caddy |
 | 🖥️ [**homelab**](https://github.com/biscuitvixen/homelab) | Docker Compose for the little home server that quietly hosts the rest |
