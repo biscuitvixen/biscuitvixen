@@ -68,12 +68,18 @@
   <circle cx="276" cy="547" r="6.5" fill="#ff7b72"/><circle cx="298" cy="547" r="6.5" fill="#d29922"/><circle cx="320" cy="547" r="6.5" fill="#3fb950"/><circle cx="342" cy="547" r="6.5" fill="#39c5cf"/><circle cx="364" cy="547" r="6.5" fill="#58a6ff"/><circle cx="386" cy="547" r="6.5" fill="#bc8cff"/><circle cx="408" cy="547" r="6.5" fill="#e6edf3"/><circle cx="430" cy="547" r="6.5" fill="#6e7681"/>
   <text x="36" y="582" font-size="14" xml:space="preserve"><tspan fill="#8b949e">[</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">]</tspan></text>
   <g font-size="14">
-    <text x="60" y="582" fill="#58a6ff" opacity="0">λ<animate attributeName="opacity" values="1;0;0;0;0;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
-    <text x="60" y="582" fill="#bc8cff" opacity="0">θ<animate attributeName="opacity" values="0;1;0;0;0;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
-    <text x="60" y="582" fill="#3fb950" opacity="0">φ<animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
-    <text x="60" y="582" fill="#d29922" opacity="0">ω<animate attributeName="opacity" values="0;0;0;1;0;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
-    <text x="60" y="582" fill="#39c5cf" opacity="0">ζ<animate attributeName="opacity" values="0;0;0;0;1;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
-    <text x="60" y="582" fill="#ff7b72" opacity="0">δ<animate attributeName="opacity" values="0;0;0;0;0;1" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
+    <style>
+      @media (prefers-reduced-motion: reduce) {
+        .animated-glyph { display: none; }
+        .cursor-blink { display: none; }
+      }
+    </style>
+    <text x="60" y="582" fill="#58a6ff" class="animated-glyph" opacity="0">λ<animate attributeName="opacity" values="1;0;0;0;0;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
+    <text x="60" y="582" fill="#bc8cff" class="animated-glyph" opacity="0">θ<animate attributeName="opacity" values="0;1;0;0;0;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
+    <text x="60" y="582" fill="#3fb950" class="animated-glyph" opacity="0">φ<animate attributeName="opacity" values="0;0;1;0;0;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
+    <text x="60" y="582" fill="#d29922" class="animated-glyph" opacity="0">ω<animate attributeName="opacity" values="0;0;0;1;0;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
+    <text x="60" y="582" fill="#39c5cf" class="animated-glyph" opacity="0">ζ<animate attributeName="opacity" values="0;0;0;0;1;0" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
+    <text x="60" y="582" fill="#ff7b72" class="animated-glyph" opacity="0">δ<animate attributeName="opacity" values="0;0;0;0;0;1" keyTimes="0;0.1667;0.3333;0.5;0.6667;0.8333" calcMode="discrete" dur="18s" repeatCount="indefinite"/></text>
   </g>
-  <rect x="77" y="570" width="8" height="15" fill="#c9d1d9"><animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1.06s" repeatCount="indefinite"/></rect>
+  <rect x="77" y="570" width="8" height="15" fill="#c9d1d9" class="cursor-blink"><animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1.06s" repeatCount="indefinite"/></rect>
 </svg>
