@@ -3,3 +3,6 @@
 
 # Rendered previews
 *.preview.png
+
+# Full-res banner master - kept locally, not committed (web uses banner.webp)
+assets/banner-source.png

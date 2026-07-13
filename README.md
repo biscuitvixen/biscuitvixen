@@ -2,8 +2,8 @@
 
 <!-- banner: lofi fox soldering, when the commission lands -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.png">
-  <img src="assets/banner.png" alt="Sandy the fox, soldering iron in paw" width="860">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.webp">
+  <img src="assets/banner.webp" alt="Sandy the fox, soldering iron in paw" width="860">
 </picture>
 
 <img src="assets/divider.svg" alt="" width="440">
