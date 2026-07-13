@@ -3,7 +3,7 @@
 <!-- banner: lofi fox soldering, when the commission lands -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner.webp">
-  <img src="assets/banner.webp" alt="Sandy the fox, soldering iron in paw" width="860">
+  <img src="assets/banner.webp" alt="Sandy, a blue and black fox with white hair and headphones, soldering a keyboard at a cozy desk on a moonlit night" width="860">
 </picture>
 
 <img src="assets/divider.svg" alt="" width="440">
@@ -33,3 +33,5 @@ It's mostly wearables, home automation, and electronics that end up sewn into fu
 ### Find me
 
 [![Telegram](assets/badge-telegram.svg)](https://t.me/biscuit_fox) [![Discord](assets/badge-discord.svg)](https://discordapp.com/users/biscuit_fox) [![bluefox.cafe](assets/badge-bluefox.svg)](https://bluefox.cafe/)
+
+<sub>Banner art by <a href="https://www.beffumsartworks.com/">beffums</a></sub>
