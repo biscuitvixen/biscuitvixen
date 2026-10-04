@@ -27,7 +27,7 @@ All of it runs on an Arch install I'm emotionally attached to.
 | | |
 |---|---|
 | <abbr title="mu - micro, the tiny trackers">μ</abbr> [**smol-biscuits**](https://github.com/biscuitvixen/smol-biscuits) | Tiny SlimeVR-compatible full-body trackers - custom PCB, firmware, and printed cases for the XIAO nRF52840 |
-| <abbr title="psi - psyche, the AI's personality">Ψ</abbr> [**scarlett_ai**](https://github.com/biscuitvixen/scarlett_ai) | Personality-driven Discord bot - optional local-LLM chat, timezone wrangling, and music, all in a container |
+| <abbr title="psi - psyche, she knows things">Ψ</abbr> [**scarlet**](https://github.com/biscuitvixen/scarlett_ai) | Friendly Discord utility bot - cross-timezone timestamps, self-assignable roles, and music, all in a container |
 | <abbr title="phi - the glowing circular visor face">Φ</abbr> [**protOS**](https://github.com/biscuitvixen/protOS) | Dynamic environment for a protogen visor - the animated LED face that rides on the suit |
 | <abbr title="theta - cup-shaped, the cafe">Θ</abbr> [**fox_cafe**](https://github.com/biscuitvixen/fox_cafe) | Self-hosted Foundry VTT stack, Discord-OAuth-gated behind Caddy |
 | <abbr title="omega - the base everything else runs on">Ω</abbr> [**homelab**](https://github.com/biscuitvixen/homelab) | Docker Compose for the little home server that quietly hosts the rest |
