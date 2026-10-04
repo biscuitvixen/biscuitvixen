@@ -18,9 +18,9 @@
 
 ### `whoami`
 
-Blue fox, scientist and developer, living at the seam where hardware meets software - and occasionally where both meet a sewing machine.
+Scientist and developer. I spend my days making GPUs go fast - CUDA kernels, profiler traces, arguing with nsight about occupancy - and my evenings on the hardware side. Custom PCBs, tiny 0402s I immediately regret, firmware for things that end up sewn into a fursuit. Honestly the best part is when the two halves meet.
 
-Most days are CUDA kernels and profiler flame graphs, and the eternal hunt for the next 5%. Then the soldering iron comes out - reflow paste, 0402s I immediately regret, and firmware that works on the third flash. Both ends run on an Arch install I'm emotionally attached to and a bash config well past the point of medical advice.
+All of it runs on an Arch install I'm emotionally attached to.
 
 ### What I build
 
